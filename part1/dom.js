@@ -98,11 +98,11 @@ for (var i = 0; i < odd.length; i++){
 
 /*
 ('') --> syntax('.class'), ('#id'), ('tag')
-.getElementById('');
-.getElementsByClassName('');
-.getElementsByTagName('');
-.textContent('');
-.innerText('');
-.innerHTML('');
+.getElementById(''); --> use to get hold of an element using ID
+.getElementsByClassName(''); --> use to get hold of an elements using CLASS
+.getElementsByTagName(''); --> use to get hold of an element using TAG 
+.textContent(''); -->change content
+.innerText(''); -->change content but pays attention with styles
+.innerHTML(''); -->create HTML tags
 */
 
